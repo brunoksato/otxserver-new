@@ -8228,10 +8228,6 @@
 	<item id="5022" article="an" name="orichalcum pearl">
 		<attribute key="weight" value="30" />
 	</item>
-	<item fromid="5023" toid="5024" article="a" name="magic forcefield">
-		<attribute key="type" value="teleport" />
-		<attribute key="description" value="You can see the other side trough it." />
-	</item>
 	<item fromid="5025" toid="5044" article="a" name="bamboo lamp" />
 	<item id="5045" article="a" name="flat roof" />
 	<item id="5046" article="a" name="monkey statue">
